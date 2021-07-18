@@ -16,6 +16,7 @@ addAndHandle( 23,43,(result) =>{
     console.log("from anonmous function "+result)
 });
 //combineFunction = printAnyThing;
+//combineFunction = printAnyThing;
 printAnyThing(add(12,8));
 console.log(combineFunction(452,8));
 
