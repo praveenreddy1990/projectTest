@@ -5,8 +5,8 @@ const person: {
     role : [number, string]
 } =
 {
-name : 'praveen',
-age : 25,
+name : 'praveen reddy',
+age : 30,
 hobbies : ['sports','reading books'],
 role : [2,'admin']
 };
