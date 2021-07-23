@@ -8,6 +8,8 @@ function add1(n1: number,n2: number, showResult: boolean, phrase: string){
     const result = n1 + n2;
     if(showResult){
         console.log(phrase + result);
+		console.log(phrase + result);
+		console.log(phrase + result);//main-section changes
     }else{
         return result;
     }

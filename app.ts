@@ -3,6 +3,8 @@ function add(num1:number,num2:number){
 }
 function printAnyThing(num: number):void{
     console.log("the result is "+ num);
+	console.log("the result is "+ num);
+	console.log("the result is "+ num);
 }
 let combineFunction:(a:number,b:number)=> number;
 combineFunction= add;
